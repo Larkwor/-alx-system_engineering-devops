@@ -1,5 +1,2 @@
-#!/bi#!/bin/bash 
-
-lsn/bash 
-
-ls
+#!/bin/bash
+ls -l
