@@ -1,4 +1,4 @@
 i#!/bin/bash
-lear
-clear
-i -a:l
+ls -al
+
+
